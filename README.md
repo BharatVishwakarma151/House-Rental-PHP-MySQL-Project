@@ -1,3 +1,13 @@
+- Developed a house rental web application allowing users to list, search, and manage rental properties.
+- Implemented secure user registration and login system with password hashing.
+- Built property listing functionality with support for adding, updating, and deleting records from the MySQL database.
+- Added search and filter options for tenants to easily browse properties by price, location, and type.
+- Created detailed property view pages showing photos and descriptions.
+- Integrated contact form for tenants to send inquiries directly to property owners.
+- Designed a responsive, clean user interface using HTML and CSS for optimal experience across devices.
+- Structured backend code in PHP to handle CRUD operations and user authentication.
+- Included an admin panel to manage users and property listings.
+
 # House-Rental-PHP-MySQL-Project
 This project is a dynamic house rental website developed using PHP and MySQL, designed to simplify and digitize the process of finding, listing, and managing rental properties. The website offers an intuitive, user-friendly interface that connects property owners with potential tenants seamlessly.
 >>>User Registration & Login
